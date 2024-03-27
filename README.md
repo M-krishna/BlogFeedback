@@ -8,7 +8,7 @@ This repository is dedicated to facilitating constructive feedback, discussions,
 
 1. **Create an Issue**: Click on the "Issues" tab above and create a new issue. Clearly state the topic of your feedback in the issue title and provide detailed information in the description.
 
-2. **Be Constructive**: We value constructive criticism and respectful dialogue. Please provide clear explanations and suggestions to help improve the content.
+2. **Be Constructive**: I value constructive criticism and respectful dialogue. Please provide clear explanations and suggestions to help improve the content.
 
-3. **Engage in Discussions**: Feel free to engage in discussions with the blog author and other users who provide feedback. Your insights can lead to valuable conversations and improvements.
+3. **Engage in Discussions**: Feel free to engage in discussions with me and other users who provide feedback. Your insights can lead to valuable conversations and improvements.
 
